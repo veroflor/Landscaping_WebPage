@@ -1,0 +1,18 @@
+Full Stack Website
+
+Requirements:
+
+User Accounts- sign up, log in, delete, reset pass, log out.
+Payment handling - cc/direct deposit, prepay, current balance, account history, cash payment scheduled
+Individual Services - Maintaince, Trimming, Irrigation Maintance, Irrigation Installation, Fencing, Flower Beds, Tree Removal, Seeding, other
+Cost Estimator - based on service, location, timing, dimensions and tax . Should be an overstimate by 10% which can be returned after completion
+
+About us - page with information about the companies mission and beginnings.
+Portfolio - Images showing past work
+
+Scheduler - services paid for in advance can be scheduled depending on the estimated time. Can only schedule the 3 day window not specific timing 
+            all appointments must be reviwed and approved before payment goes thru - specially for non standard maintance services.
+
+Scheduler to Text - send any services scheduled to phone number with name, address, service, estimated time, and estimated price.
+Contact Us - prompts with textbox for message      
+Home Page - Tabs with previous pages, direct contact info, Header/Logo, Slideshow with portfolio pictures
